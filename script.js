@@ -95,8 +95,8 @@ updateTimer();
 ================================ */
 const memories = [
   { img: "images/img1.jpg", text: "Teasing each other and laughing together 🤭😂" },
-  { img: "images/img2.png", text: "You giving me your time, even when you're busy ⏰❤️" },
-  { img: "images/img3.png", text: "The night you sang for me for the first time 🎶🥹" },
+  { img: "images/img2.PNG", text: "You giving me your time, even when you're busy ⏰❤️" },
+  { img: "images/img3.PNG", text: "The night you sang for me for the first time 🎶🥹" },
   { img: "images/img4.jpg", text: "😘" },
   { img: "images/img5.jpg", text: "Falling asleep together 🌙💤" },
   { img: "images/img6.jpg", text: "I love you, Tony ❤️" }
